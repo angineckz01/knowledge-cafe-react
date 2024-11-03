@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover_photo": "https://i.ibb.co.com/6XfTB3T/Real-Estate-Facebook-Cover-Banner-10.jpg",
+      "title": "Exploring the World of AI",
+      "author": "John Doe",
+      "author_img": "https://i.ibb.co.com/BKTrvhB/rb-60111.png",
+      "posted_date": "2023-10-15",
+      "reading_time": 8,
+      "hashtags": ["AI", "Technology", "Innovation"]
+    },
+    {
+      "id": 2,
+      "cover_photo": "https://i.ibb.co.com/6XfTB3T/Real-Estate-Facebook-Cover-Banner-10.jpg",
+      "title": "A Guide to Healthy Eating",
+      "author": "Jane Smith",
+      "author_img": "https://i.ibb.co.com/hYs9H3P/5677.jpg",
+      "posted_date": "2023-11-01",
+      "reading_time": 5,
+      "hashtags": ["Health", "Nutrition", "Lifestyle"]
+    },
+    {
+      "id": 3,
+      "cover_photo": "https://i.ibb.co.com/6XfTB3T/Real-Estate-Facebook-Cover-Banner-10.jpg",
+      "title": "Mastering Python for Data Science",
+      "author": "Emily Zhang",
+      "author_img": "https://i.ibb.co.com/BKTrvhB/rb-60111.png",
+      "posted_date": "2023-09-21",
+      "reading_time": 12,
+      "hashtags": ["Python", "Data Science", "Programming"]
+    },
+    {
+      "id": 4,
+      "cover_photo": "https://i.ibb.co.com/6XfTB3T/Real-Estate-Facebook-Cover-Banner-10.jpg",
+      "title": "Top 10 Travel Destinations for 2024",
+      "author": "Michael Brown",
+      "author_img": "https://i.ibb.co.com/BKTrvhB/rb-60111.png",
+      "posted_date": "2023-12-05",
+      "reading_time": 6,
+      "hashtags": ["Travel", "Adventure", "2024"]
+    },
+    {
+      "id": 5,
+      "cover_photo": "hhttps://i.ibb.co.com/6XfTB3T/Real-Estate-Facebook-Cover-Banner-10.jpg",
+      "title": "Understanding Blockchain Basics",
+      "author": "Sarah Lee",
+      "author_img": "https://i.ibb.co.com/hYs9H3P/5677.jpg",
+      "posted_date": "2023-08-30",
+      "reading_time": 10,
+      "hashtags": ["Blockchain", "Cryptocurrency", "Tech"]
+    }
+  ]
+  
